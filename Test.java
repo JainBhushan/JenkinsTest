@@ -2,6 +2,6 @@ class Test
 {
   public static void main(String[] ar)
    {
-     System.out.println("Jenkins Tst File....");
+     System.out.println("Jenkins Test File....");
    }
 }
